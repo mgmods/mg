@@ -1,14 +1,1 @@
-{"version_code":999999999,"content":"
-<p> MGWhatsApp  V11.10 </p>
-<p> تـــــحـــــــديــــــث جــــــديـــــــــد </p>
-<p>•تـــم الــعـــثـــور علـى تــحـــديـــث جــديــــد</p>
-
-<p>• اضافة خيار لتحويل الحالة الكتابية الى صورة </p>
-<p> •اضافة ارسال الرسائل الجماعية للمجموعات  </p>
-<p> • اضافة خيار اضهار ايقونة خضراء عندما يكون الشخص متصل بالواتساب مثل فيسبوك </p>
-<p> اضافة خيار حذف مخلقات واتساب بشكل احترافي</p>
-<p> امكانية تحديد من يمكن مشاهدة حالتك</p>
-<p> • و الكثير من الميزات والاضافات الرهيبة اكتشفها بنفسك </p>
-
- ","url":"https://syriia.blogspot.com/2020/05/mgwhatsapp2.html"
-}
+{"version_code":3,"content":" <p>New Update v2.0</p> <li> Updated Base to release.00-9.23.0 </li> <li> Added Ability to Search in Account of Person ( Profile any one - Click on Search icon ) </li> <li> Added Option to Lock App with Password </li> <li> Added Option to Lock Conversations </li> <li> Added Option to Lock Modification with Password </li> <li> Added section to Manage App Caches </li> <li> Added Option to Change FloatingAction Color </li> <li> Added Option to Change FloatingAction Icons Color </li> <li> Added Option to Change ActionBar Color in Main Screen </li> <li> Added Option to Change Below Bar Color in Main Screen </li> <li> Added Option to Change background ActionBar Color in Search Screen </li> <li> Added Option to Change Text ActionBar Color in Notification Screen </li> <li> Added Option to Change Referesh icon Color in Main Screen </li> <li> Added Option to Change Count Badage icon Color in Main Screen </li> <li> Added Option to Change ActionBar Color in Chats </li> <li> Added Option to Change Below Bar Color in Chats </li> <li> Fixed Crash at Copy Message in Chat </li> <li> Other Fixed </li> <li> More Improvment </li> ","url":"https://www.ga-mods.com/2021/12/twitter-plus.html" }
