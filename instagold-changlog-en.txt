@@ -1,0 +1,12 @@
+Version 3.76 Changelog:
+
+>[Base] 223.1.0.14.103
+>[Added] Like stories feature
+>[Added] Themes within the app, you can change the theme you like
+>[Added] the option to translate within conversations by clicking on the word you want to translate and then more
+>[Added] An option on the main screen to change between the main, followers and favorites (appears in famous accounts)
+>[Improved] Download button within conversations
+>[Fixed] The problem of crashing when changing the language
+>[Fix] Dark mode problem when registering another account
+>[Fixed] All crash problems
+>[More] Discovery fixes and improvements
