@@ -1,19 +1,6 @@
-{"version_code":999999999,"content":"
-
-<p>تحديث جديد New Update</p>
-
-<li> إمكانية مشاهدة الوسائط المعلمة مشاهدة مرة واحدة فقط بدون إختفائها </li>
-
-<li> إمكانية كتابة شرح مرفق مع الوسائط بحروف عدد ٤٠٠٠ حرف بدلا من ١٠٢٤ حرف </li>
-
-<li> المزيد من الإضافات اكتشفها بنفسك </li>
-
-<li> Added Anti -View Once </li>
-
-<li> Ability to Write a Caption to 4000 Charactres at once instead of 1024 Characters </li>
-
-<li> More ... </li>
-
-","url":",https://syriia.blogspot.com/2022/06/gbwhatsapp.html"
-
-}
+{
+    "v1": "15"،
+    "v2": "25"،
+    "v3": "\ n الميزة الأولى \ n الميزة الثانية \ n الميزة الثالثة"،
+    "v4": "https://www.whatsappmods.net/2019/05/gbwhatsapp-ban-prof.html"
+ }
