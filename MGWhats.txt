@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "0",
     "reminder_time": "3",
-    "update_version": "v7.6",
+    "update_version": "v71.6",
     "com.alaskar": "https://syriia.blogspot.com/2019/08/20-MG.html",
     "com.alaskar1": "https://syriia.blogspot.com/2019/08/20-MG.html",
     "com.alaskar2": "https://syriia.blogspot.com/2019/08/20-MG.html",
